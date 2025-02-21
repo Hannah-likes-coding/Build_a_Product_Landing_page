@@ -54,7 +54,6 @@ OR---Open the folder "Build_a_Product_Landing_page" using Xampp
    2. In the address bar, type: http://localhost/Build_a_Product_Landing_page
       
 ## Features
-**Program language**: HTML & CSS
 
 **User-Friendly Interface**: Intuitive design for easy navigation.
 
