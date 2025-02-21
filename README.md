@@ -2,7 +2,7 @@
  It is a simple website to build a product Landing page using HTML and CSS. This project is from FreeCodeCamp.
  
  
-## 📜 FreeCodeCamp Certifications
+## 📜 FreeCodeCamp Certification
 
 - ✅ [Responsive Web Design Certification](https://www.freecodecamp.org/certification/fcc6f7e5edb-1727-4a3d-b114-4386b5fd652a/responsive-web-design)
 - 🌟 Skills: HTML, CSS, Flexbox, Grid, Responsive Design
